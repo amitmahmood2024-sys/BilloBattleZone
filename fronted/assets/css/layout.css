@@ -1,0 +1,20 @@
+.container {
+  max-width: 420px;
+  margin: auto;
+  padding: 16px;
+}
+
+.card {
+  background: var(--bg-card);
+  border-radius: var(--radius);
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.center {
+  text-align: center;
+}
+
+.mt {
+  margin-top: 16px;
+}
